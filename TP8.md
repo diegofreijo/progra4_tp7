@@ -55,7 +55,7 @@ Va a haber una exposición oral de esto. Pero va a suceder después de la del TP
 
 Corregir código ajeno todo el tiempo es aburrido. Sacar problemas todo el tiempo cansa. Mejor metamos problemas!
 
-Van a crear el backend de una API, similar al desafío del TP8. Y va a tener 2 vulnerabilidades escondidas. Van a estar tan bien escondidas que ChatGPT no va a poder ser capaz de encontrarlas.
+Van a crear el backend de una API, similar al desafío del TP7. Y va a tener 2 vulnerabilidades escondidas. Van a estar tan bien escondidas que ChatGPT no va a poder ser capaz de encontrarlas.
 
 Ambas vulnerabilidades deben pertenecer a alguna de las siguientes familias:
 
